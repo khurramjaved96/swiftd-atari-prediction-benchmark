@@ -1,0 +1,1 @@
+add_library(SwiftTD SwiftTD.cpp)

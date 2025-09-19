@@ -1,0 +1,6 @@
+add_subdirectory(experiment)
+add_subdirectory(swifttd)
+add_subdirectory(atari)
+add_subdirectory(environments)
+add_subdirectory(evaluators)
+add_subdirectory(logger)
