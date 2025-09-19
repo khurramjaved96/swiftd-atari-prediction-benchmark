@@ -1,0 +1,96 @@
+{
+  "experiment": {
+    "name": "lambda_sweep",
+    "params": {
+      "seed": [
+        "0"
+      ],
+      "steps": [
+        "210000"
+      ],
+      "learner": [
+        "SwiftTD"
+      ],
+      "env": [
+        "AirRaid",
+        "Alien",
+        "Amidar",
+        "Asterix",
+        "Asteroids",
+        "Atlantis",
+        "BankHeist",
+        "BattleZone",
+        "BeamRider",
+        "Berzerk",
+        "Bowling",
+        "Boxing",
+        "Breakout",
+        "Carnival",
+        "Centipede",
+        "ChopperCommand",
+        "CrazyClimber",
+        "DemonAttack",
+        "DoubleDunk",
+        "Enduro",
+        "FishingDerby",
+        "Freeway",
+        "Frostbite",
+        "Gopher",
+        "Gravitar",
+        "Hero",
+        "IceHockey",
+        "Jamesbond",
+        "JourneyEscape",
+        "Kangaroo",
+        "Krull",
+        "KungFuMaster",
+        "MsPacman",
+        "NameThisGame",
+        "Phoenix",
+        "Pitfall",
+        "Pong",
+        "Pooyan",
+        "PrivateEye",
+        "Qbert",
+        "Riverraid",
+        "Robotank",
+        "Seaquest",
+        "Solaris",
+        "SpaceInvaders",
+        "StarGunner",
+        "TimePilot",
+        "Tutankham",
+        "UpNDown",
+        "VideoPinball",
+        "WizardOfWor",
+        "YarsRevenge",
+        "Zaxxon"
+      ],
+      "lambda": [
+        "0.0",
+        "0.80",
+        "0.90",
+        "0.95"
+      ],
+      "gamma": [
+        "0.98"
+      ],
+      "epsilon": [
+        "0.000000001"
+      ],
+      "alpha": [
+        "0.001"
+      ],
+      "meta-step-size": [
+        "1e-3"
+      ],
+      "decay": [
+        "0.999"
+      ],
+      "eta": [
+        "0.1"
+      ]
+    }
+  }
+}
+
