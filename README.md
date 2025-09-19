@@ -45,3 +45,5 @@ Run all configurations in parallel (sample_config.json has 53 total jobs):
 parallel -j <cpus> ./SwiftTDOnAtari --config ../configs/sample_config.json --run ::: {1..53}
 ```
 
+Results are stored as `<name>_<run_no>.json` in the build directory.
+
