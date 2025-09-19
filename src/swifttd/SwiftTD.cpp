@@ -2,7 +2,7 @@
 // Created by Khurram Javed on 2024-02-18.
 //
 
-#include "SwiftTD.h"
+#include "../../include/swifttd/SwiftTD.h"
 #include <vector>
 #include <math.h>
 
