@@ -1,6 +1,6 @@
-# SwiftTD Atari Prediction Benchmark
+# SwiftTD on the Atari Prediction Benchmark
 
-SwiftTD (Swift Temporal Difference) learning algorithm benchmark on Atari games.
+SwiftTD learning algorithm evaluated on the Atari Prediction Benchmark (Javed, Shah, Sutton and White, 2023).
 
 ## Dependencies
 
